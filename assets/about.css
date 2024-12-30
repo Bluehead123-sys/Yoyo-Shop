@@ -1,0 +1,94 @@
+body {
+  background-image: url('../assets/images/backgroundimg.png');
+}
+
+.About-Me {
+  background-color: white;
+  text-align: center;
+  border: 10px solid black;
+  font-family: 'Arial';
+  border-radius: 10px;
+  margin-top: 10px; 
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 10px;
+}
+
+.main-div {
+  background-color: black;
+  padding-bottom: 50px;
+  border-radius: 10px;
+}
+
+.navbar {
+  float: right;
+  margin-top: 12px;
+  margin-right: 10px;
+  background-color: red;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.home {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.home:hover {
+  font-weight: bold;
+}
+
+.about {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.about:hover {
+  font-weight: bold;
+}
+
+.contact {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.contact:hover {
+  font-weight: bold;
+}
+
+button {
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Arial';
+}
+
+.cart {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.cart:hover {
+  font-weight: bold;
+}
+
+.heading-all {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Arial';
+
+}

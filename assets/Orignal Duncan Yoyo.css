@@ -1,0 +1,138 @@
+.main-div {
+  background-color: black;
+  padding-bottom: 50px;
+  border-radius: 10px;
+}
+
+.navbar {
+  float: right;
+  margin-top: 12px;
+  margin-right: 10px;
+  background-color: red;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.home {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.home:hover {
+  font-weight: bold;
+}
+
+.about {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.about:hover {
+  font-weight: bold;
+}
+
+.contact {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.contact:hover {
+  font-weight: bold;
+}
+
+.cart {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.cart:hover {
+  font-weight: bold;
+}
+
+body {
+  background-image: url('./images/backgroundimg.png');
+}
+
+.div-for-Orignal-Duncan-Yoyo {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  background-color: white;
+  text-align: center;
+  border: 10px solid black;
+  border-radius: 10px;
+  margin-top: 10px;
+  font-family: 'Arial';
+}
+
+img {
+  height: 250px;
+}
+
+button {
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Arial';
+}
+
+.add-to-cart {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.add-to-cart:hover {
+  font-weight: bold;
+}
+
+.add-to-cart-div {
+  border: 5px solid black;
+  border-radius: 50px;
+} 
+
+
+.buy-now {
+  text-decoration: none;
+  color: black;
+  font-family: 'Arial';
+}
+
+.buy-now:hover {
+  font-weight: bold;
+}
+
+ 
+.buy-now-div {
+  border: 5px solid black;
+  border-radius: 50px;
+  margin-top: 5px; 
+}
+
+li {
+  list-style-type: none;
+}
+
+.dropdown-item {
+  text-decoration: none;
+  color: black;
+}
+
+.dropdown-item:hover {
+  font-weight: bold;
+}
+
+.heading-all {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Arial';
+
+}
